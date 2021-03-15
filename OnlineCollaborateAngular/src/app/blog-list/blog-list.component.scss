@@ -1,0 +1,40 @@
+body {
+    background: #eee
+}
+.main{
+    position:relative;
+    left:95px;
+    background-color:rgb(21, 36, 46);
+    }
+
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #c6d019
+}
+
+.cursor:hover {
+    color: rgb(161, 161, 226)
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
